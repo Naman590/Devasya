@@ -1,0 +1,6 @@
+{
+  "name": "Devasya | Luxury Indian Couture & Suits",
+  "description": "Devasya flagship store at 28A Khan Market, New Delhi. Handcrafted luxury suits, unstitched & semi-stitched sets, festive lehengas, and couture trousseau.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
